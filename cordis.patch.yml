@@ -1,0 +1,4 @@
+# dsh-fish-diary bundle patch：把本插件的 host 行插入 DSH 的 host 组合。
+- insert:
+    - id: dsh-fish-diary
+      name: dsh-fish-diary
